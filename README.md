@@ -1,1 +1,4 @@
 # edge_ai_abnormal_detect
+
+main分支为上位机的UI界面的代码
+master分支为下位机异常检测的代码
